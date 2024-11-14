@@ -105,7 +105,7 @@ const Home = () => {
                   height: '250px',
                   borderRadius: '10px',
                   objectFit: 'cover',
-                  transition: 'transform 0.5s ease-in-out',
+                  transition: 'transform 0.5s ease-in-out'
                 }}
               />
             </div>
