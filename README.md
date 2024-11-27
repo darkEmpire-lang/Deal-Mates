@@ -1,6 +1,6 @@
 # 🌟 **DealMates - Affiliate E-Commerce Platform**
 
-![DealMates Banner](Frontend/src/assets/banner.png)  
+![DealMates Banner](Frontend/src/assets/newbanner.png)  
 *(Replace with your banner image path or hosted link)*  
 
 Welcome to **DealMates**, a cutting-edge affiliate e-commerce platform seamlessly integrated with the **Daraz Affiliate Program**. Discover and share the best deals, manage products effortlessly, and earn rewards by promoting Daraz products.  
