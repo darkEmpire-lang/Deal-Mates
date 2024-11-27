@@ -1,23 +1,25 @@
-# 🌟 **DealMates - Affiliate E-Commerce Platform**
+# 🌟 DealMates - Affiliate E-Commerce Platform
 
 ![DealMates Banner](Frontend/src/assets/newbanner.png)  
 *(Replace with your banner image path or hosted link)*  
 
 Welcome to **DealMates**, a cutting-edge affiliate e-commerce platform seamlessly integrated with the **Daraz Affiliate Program**. Discover and share the best deals, manage products effortlessly, and earn rewards by promoting Daraz products.  
 
----
-
-## ✨ **Overview**
-
-**DealMates** is your ultimate solution for sharing affiliate deals and earning commissions. It empowers users to:  
-- **Browse Products**: Access top-quality deals from Daraz's extensive catalog.  
-- **Affiliate Program**: Share product links through the Daraz Affiliate Program and earn commissions.  
-- **Simple Product Management**: Add, edit, and showcase products efficiently.  
-- **Mobile-friendly Design**: Enjoy a seamless experience across devices.  
+🌐 **Live Website**: [Visit DealMates](https://deal-mates-online-store.vercel.app/)
 
 ---
 
-## 🛠️ **Tech Stack**
+## ✨ Overview
+
+**DealMates** is your ultimate solution for sharing affiliate deals and earning commissions. With its seamless integration with Daraz, DealMates allows users to:
+- 🛍️ **Browse Products**: Access top-quality deals from Daraz's extensive catalog.
+- 🤝 **Affiliate Program**: Share product links and earn commissions for purchases.
+- 🛠️ **Product Management**: Effortlessly add, edit, and manage products.
+- 📱 **Mobile-Friendly Design**: Enjoy a responsive and modern interface across devices.
+
+---
+
+## 🛠️ Tech Stack
 
 | **Component**        | **Technology**               |  
 |-----------------------|------------------------------|  
@@ -28,41 +30,38 @@ Welcome to **DealMates**, a cutting-edge affiliate e-commerce platform seamlessl
 
 ---
 
-## ✨ **Features**
+## ✨ Features
 
-### **User Features**  
-- 🛍️ **Browse Products**: View an extensive collection of items via integration with Daraz's API.  
-- 🔍 **Search and Filter**: Quickly find relevant products with advanced filters.  
-- 🤝 **Share and Earn with Daraz**:  
-  - Generate affiliate links using Daraz’s API.  
-  - Share links across social media, blogs, or directly with your network.  
-  - Earn commissions for successful purchases made through your affiliate links.  
+### User Features
+- 🛍️ **Browse Products**: View a wide range of products integrated via Daraz’s API.
+- 🔍 **Search and Filter**: Quickly locate specific products using search and filter options.
+- 🤝 **Share and Earn with Daraz**:
+  - Generate affiliate links using the Daraz Affiliate API.
+  - Share links on social media, blogs, or directly with your network.
+  - Earn commissions for purchases made through your links.
 
-### **Admin Features**  
-- 🛠️ **Product Management**:  
-  - Add new products manually or fetch products via Daraz API.  
-  - Edit product details like title, price, and images.  
-  - Delete outdated or unavailable products.  
-
----
-
-## 🎨 **Key Highlights**
-
-- **Daraz API Integration**: Fetch products directly from Daraz to ensure up-to-date inventory.  
-- **Affiliate Earnings Dashboard**: Monitor commissions earned through shared links.  
-- **Responsive Design**: Built with **React-Bootstrap** for consistent functionality on any device.  
-- **Custom Styling**: Polished UI with **Styled Components**.  
+### Admin Features
+- 🛠️ **Product Management**:
+  - Add new products manually or fetch from the Daraz API.
+  - Edit product details like title, price, and images.
+  - Delete outdated or unavailable products.
 
 ---
 
-## 🚀 **How to Get Started**
+## 🎨 Key Highlights
 
-### Prerequisites  
-- Node.js and npm installed  
-- MongoDB database setup  
-- **Daraz Affiliate Account** (Sign up [here](https://affiliate.daraz.lk))  
+- **Daraz API Integration**: Fetch products directly from Daraz for real-time inventory updates.
+- **Affiliate Earnings Dashboard**: Track commissions earned through shared links.
+- **Responsive Design**: Built with **React-Bootstrap** for consistent functionality across devices.
+- **Custom Styling**: Polished user interface created using **Styled Components**.
 
-### Installation  
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/username/dealmates.git  
+---
+
+## 🚀 How to Get Started
+
+### Prerequisites
+- Node.js and npm installed.
+- MongoDB database setup.
+- **Daraz Affiliate Account** (Sign up [here](https://affiliate.daraz.lk)).
+
+
